@@ -1,5 +1,5 @@
 #!/bin/bash
-#Codec By Maulana Rym
+#Codec By MrX-Rafi-08 Rym
 
 echo "Masukan Target lu : "
 read target
